@@ -1,5 +1,5 @@
 // Dragão sem Chama: http://dragaosemchama.com.br/2016/07/android-autocompletetextview/
-//Código: Segundo Exemplo do componente AutoCompleteTextView
+//Código: Terceiro Exemplo do componente AutoCompleteTextView
 //Autor: Márcio Albuquerque
 //Email: o.marcio.albu@gmail.com
 //Data: Junho/2016
